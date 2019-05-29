@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Chapter 4 - Cumulative Returns'
 description: 'Chapter description goes here.'
 free_preview: true
 ---
